@@ -4,3 +4,5 @@
 - pip install jieba
 - pip install pillow
 - pip install wordcloud
+- pip install echarts-python
+
